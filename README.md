@@ -8,3 +8,5 @@
 - `git log`: show you commit history
     - `git log --oneline`: condensed history
 
+- `git diff`: gives you the difference
+
