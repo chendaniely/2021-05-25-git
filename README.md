@@ -27,3 +27,10 @@
 - `git push <WHERE> <WHAT>`: local repo -> remote
 - `git pull <WHERE> <WHAT>`: remote -> local
 
+## branches
+    
+How to fix master -> main
+    
+1. `git checkout -b main`
+2. `git push origin main`
+3. fix default branch in github
