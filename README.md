@@ -1,4 +1,4 @@
-# 2021-05-25 Git Basics
+# 2021-05-25 GIT Basics
 
 - `git init`: initialize git repo in current location
 - `git status`: gives you the status
@@ -27,7 +27,7 @@
 - `git push <WHERE> <WHAT>`: local repo -> remote
 - `git pull <WHERE> <WHAT>`: remote -> local
 
-## Branches
+## BRANCHES
 
 How to fix master -> main
 
